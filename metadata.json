@@ -1,0 +1,6 @@
+{
+  "name": "Live Football Stream & Fan Hub",
+  "description": "An immersive match-day platform with simulated multi-angle live video feeds, real-time football scoreboard, tactical field position tracker, individual player heatmap analysis, and interactive multi-user fan chats moderated by a live server-side Gemini AI sports commentator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
